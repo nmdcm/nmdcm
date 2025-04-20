@@ -1,12 +1,10 @@
-<div align="center" style="font-family: 'JetBrains Mono', monospace;">
+<div align="center">
 <h1> Nathan Monteiro </h1>
 ```Senior BI Engineer @ Emirates```
 
 I’m a seasoned software engineer with a strong foundation in backend development, data workflows, and scalable systems. Over the years, I’ve worked on a variety of impactful projects—though most of them live in private repositories (for now).
 
 As I transition into a Senior BI Engineer role at Emirates, I’m shifting my focus more deeply into the world of data, analytics, and business intelligence. I’m excited to build solutions that turn data into decisions at scale.
-
-<div style="font-family: 'JetBrains Mono', monospace;">
 
 # 💻 Tech Stack
 
@@ -95,7 +93,7 @@ As I transition into a Senior BI Engineer role at Emirates, I’m shifting my fo
 </tr>
 </table>
 
-## 🌐 Socials:
+## Connect
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nmdcm) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nmdcm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nathan.m.monteiro@gmail.com)
 
