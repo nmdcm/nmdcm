@@ -8,8 +8,6 @@
 
 I’m a software engineer with a strong foundation in full stack development, data workflows, and scalable systems. Over the years, I’ve worked on a variety of impactful projects—though most of them live in private repositories (for now).
 
-My current role as Senior BI Engineer at Emirates is focussed more deeply into the world of data, analytics, and business intelligence. I currently build solutions that turn data into decisions at scale.
-
 ##
 
 ##### Here are some of the technologies powering my digital solutions
@@ -57,7 +55,6 @@ My current role as Senior BI Engineer at Emirates is focussed more deeply into t
 
 ### Data
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNTAgNTAiIHdpZHRoPSIzMHB4IiBoZWlnaHQ9IjMwcHgiPjxwYXRoIGQ9Ik00MiwxSDI5Yy0xLjEwMywwLTIsMC44OTctMiwydjloLTljLTEuMTAzLDAtMiwwLjg5Ny0yLDJ2OEg5Yy0xLjEwMywwLTIsMC44OTctMiwydjIzYzAsMS4xMDMsMC44OTcsMiwyLDJoOWg0aDdoMmgxMQljMS4xMDMsMCwyLTAuODk3LDItMlYzQzQ0LDEuODk3LDQzLjEwMywxLDQyLDF6IE05LDI0aDEzbC0wLjAwMSwyM0g5VjI0eiBNMjIsMjJoLTR2LThoMTNsLTAuMDAxLDMzSDI0VjI0CUMyNCwyMi44OTcsMjMuMTAzLDIyLDIyLDIyeiBNNDEuOTk5LDQ3SDMzVjE0YzAtMS4xMDMtMC44OTctMi0yLTJoLTJWM2gxM0w0MS45OTksNDd6Ii8+PC9zdmc+)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
